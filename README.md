@@ -18,9 +18,19 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```Swapping two values
+Developed by:Dilip.M.P
+Register number:212223230048
 
-
-
+greenball= input()
+whiteball= input()
+tmp=greenball
+greenball=whiteball
+whiteball=tmp
+print("Swapped values are:",greenball whiteball)
+```
+## Output:
+![Screenshot 2024-03-13 155313](https://github.com/DilipDofy/Swapping-two-values/assets/147223497/a7050956-7c1f-417c-b4f2-b4cf1bf5ab63)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
